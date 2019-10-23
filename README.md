@@ -1,3 +1,5 @@
 # sridemo
 For practice 
-Hi iam srikanth 
+I live in vizag
+I like to be traditional 
+Hi iam srikanth
